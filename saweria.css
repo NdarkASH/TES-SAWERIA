@@ -45,7 +45,6 @@
 }
 
 .mascot {
-    mix-blend-mode: multiply;
     position: absolute;
     bottom: 0px;
     left: -325px;
